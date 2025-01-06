@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29db0e69-9f04-4d3f-9f0a-b0951abdd9f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/ecom-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/coupon.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/login_screen/login_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/login_screen/provider/user_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/my_address_screen/my_address_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/my_order_screen/my_order_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_by_category_screen/product_by_category_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_by_category_screen/provider/product_by_category_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_cart_screen/cart_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_cart_screen/components/buy_now_bottom_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_cart_screen/components/cart_list_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_cart_screen/components/empty_cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_cart_screen/provider/cart_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_details_screen/components/product_rating_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_details_screen/product_detail_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_details_screen/provider/product_detail_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_favorite_screen/favorite_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_favorite_screen/provider/favorite_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/components/poster_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/product_list_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/provider/product_list_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/profile_screen/profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/profile_screen/provider/profile_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/tracking_screen/tracking_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/utility_extention.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/applay_coupon_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/compleate_order_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/custom_dropdown.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/custom_network_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/custom_search_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/custom_text_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/horizondal_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/multi_select_drop_down.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/navigation_tile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/order_tile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/product_grid_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/src/main/kotlin/com/sinasys/e_commerce_flutter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/app/src/main/kotlin/com/sinasys/e_commerce_flutter/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/a53_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/a53_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/a53_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/apple_watch_series_7_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/apple_watch_series_7_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/apple_watch_series_7_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/beats_studio_3-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/beats_studio_3-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/beats_studio_3-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/beats_studio_3-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/galaxy_watch_4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/galaxy_watch_4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/galaxy_watch_4_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/samsung_q_60_a_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/samsung_q_60_a_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/shopping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/sony_x_80_j_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/sony_x_80_j_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s7_fe_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s7_fe_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s7_fe_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s8_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s8_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/assets/images/tab_s8_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/core/data/data_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/core/data/data_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/order.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/order.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/models/product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/components/category_selector.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/components/category_selector.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/controller/product_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/bottom_navy_bar_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/bottom_navy_bar_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/categorical.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/numerical.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/product.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/product_category.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/product_size_type.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/src/model/recommended_product.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/animation/open_container_wrapper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/animation/open_container_wrapper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/app_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/app_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/extensions.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/extensions.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/snack_bar_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/utility/snack_bar_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/carousel_slider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/carousel_slider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/custom_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/screen/product_list_screen/components/custom_app_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/product_grid_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/lib/widget/product_grid_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/client_side/flutter_ecommerce_complete/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client_side/flutter_ecommerce_complete" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gsoeWYMhahoWgeW4BGDRBmz0Jx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/nazeef/Downloads/complete_ecom_app_random_87129001_a1234_codeing_123",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29db0e69-9f04-4d3f-9f0a-b0951abdd9f0" name="Changes" comment="" />
+      <created>1716495742691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716495742691</updated>
+    </task>
+    <servers />
+  </component>
+</project>
