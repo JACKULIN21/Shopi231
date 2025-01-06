@@ -1,0 +1,3 @@
+[submodule "client_side/flutter_ecommerce_complete"]
+	path = client_side/flutter_ecommerce_complete
+	url = https://github.com/username/flutter_ecommerce_complete.git
